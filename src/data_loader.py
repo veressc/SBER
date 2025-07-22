@@ -1,30 +1,30 @@
-# src/data_loader.py
-
 import os
 import pandas as pd
 
 def load_annotations(annotation_dir: str) -> pd.DataFrame:
-    """
-    Читает все .out-файлы из папки и возвращает DataFrame с колонками:
-      - document_id  (например 'brexit_ru.txt_file_10')
-      - entity       (тип сущности: PER, LOC, ORG, EVT…)
-      - gold_answer  (строка surface_form из разметки)
-    """
+    import os, pandas as pd
     records = []
     for fname in os.listdir(annotation_dir):
         if not fname.endswith('.out'):
             continue
         doc_id = os.path.splitext(fname)[0]
-        path = os.path.join(annotation_dir, fname)
-        with open(path, encoding='utf-8') as f:
+        with open(os.path.join(annotation_dir, fname), encoding='utf-8') as f:
             lines = [L.strip() for L in f if L.strip()]
-        # Убираем, если первая строка внутри — просто ID
-        if lines and lines[0] == doc_id.split('_')[-1]:
+
+
+        if lines and (lines[0] == doc_id or lines[0] == doc_id.split('_')[-1]):
             lines = lines[1:]
+
         for line in lines:
-            parts = line.split()
-            if len(parts) >= 4:
-                surface, lemma, ent_type, canonical = parts[:4]
+
+            line = line.replace('\t', ' ')
+
+            tokens = line.split()
+            if len(tokens) >= 4:
+
+                lemma, ent_type, canonical = tokens[-3:]
+
+                surface = " ".join(tokens[:-3])
                 records.append({
                     'document_id': doc_id,
                     'entity': ent_type,
@@ -33,13 +33,10 @@ def load_annotations(annotation_dir: str) -> pd.DataFrame:
     return pd.DataFrame(records)
 
 
+
 def load_texts(text_dir: str, skip_lines: int = 4) -> pd.DataFrame:
-    """
-    Читает все .txt-файлы из папки, пропуская первые skip_lines строк (метаданные),
-    и возвращает DataFrame с колонками:
-      - document_id   (имя файла без .txt)
-      - document_text (тело статьи с 5-й строки и дальше)
-    """
+
+
     records = []
     for fname in os.listdir(text_dir):
         if not fname.endswith('.txt'):
@@ -48,7 +45,7 @@ def load_texts(text_dir: str, skip_lines: int = 4) -> pd.DataFrame:
         path = os.path.join(text_dir, fname)
         with open(path, encoding='utf-8') as f:
             lines = f.read().splitlines()
-        # Собираем текст, начиная с 5-й строки
+
         body = "\n".join(lines[skip_lines:]).strip()
         records.append({
             'document_id': doc_id,
