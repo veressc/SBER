@@ -1,0 +1,122 @@
+﻿document_id,entity_type,predicted
+brexit_ru.txt_file_10,PER,Тереза Мэй
+brexit_ru.txt_file_10,PER,Борис Джонсон
+brexit_ru.txt_file_10,PER,Мишель Барнье
+brexit_ru.txt_file_10,PER,Себастьян Курц
+brexit_ru.txt_file_10,LOC,Великобритания
+brexit_ru.txt_file_10,LOC,Северная Ирландия
+brexit_ru.txt_file_10,LOC,Брюссель
+brexit_ru.txt_file_10,LOC,Альбион
+brexit_ru.txt_file_10,LOC,Ла-Манш
+brexit_ru.txt_file_10,ORG,партия тори
+brexit_ru.txt_file_10,ORG,Международная валютный фонд
+brexit_ru.txt_file_10,ORG,Еврокомиссия
+brexit_ru.txt_file_10,ORG,Европейский парламент
+brexit_ru.txt_file_10,ORG,Британский парламент
+brexit_ru.txt_file_10,ORG,Лейбористы
+brexit_ru.txt_file_10,ORG,Консерваторы
+brexit_ru.txt_file_10,EVT,процедура Brexit
+brexit_ru.txt_file_10,EVT,конференция партии тори
+brexit_ru.txt_file_10,EVT,переговоры по Brexit
+brexit_ru.txt_file_10,EVT,экстренный саммит Евросоюза
+brexit_ru.txt_file_10,EVT,выход из состава Евросоюза
+brexit_ru.txt_file_10,EVT,утверждения сделки с Евросоюзом
+brexit_ru.txt_file_10,PRO,документ (текст)
+brexit_ru.txt_file_1000,PER,Борис Джонсон
+brexit_ru.txt_file_1000,PER,Тереза Мэй
+brexit_ru.txt_file_1000,PER,Дэвид Дэвис
+brexit_ru.txt_file_1000,PER,Стив Бейкер
+brexit_ru.txt_file_1000,LOC,Великобритания
+brexit_ru.txt_file_1000,LOC,ЕС
+brexit_ru.txt_file_1000,ORG,Министерство иностранных дел Великобритании
+brexit_ru.txt_file_1000,ORG,Кабинет министров Великобритании
+brexit_ru.txt_file_1000,ORG,Пресс-служба британского парламента
+brexit_ru.txt_file_1000,EVT,уход с должности
+brexit_ru.txt_file_1000,EVT,переговоры с ЕС
+brexit_ru.txt_file_1000,EVT,Brexit
+brexit_ru.txt_file_1000,PRO,документ (текст)
+brexit_ru.txt_file_1001,PER,Борис Джонсон
+brexit_ru.txt_file_1001,PER,Тереза Мэй
+brexit_ru.txt_file_1001,LOC,Великобритания
+brexit_ru.txt_file_1001,LOC,Евросоюз (ЕС)
+brexit_ru.txt_file_1001,ORG,Министерство иностранных дел Великобритании
+brexit_ru.txt_file_1001,ORG,Канцелярия премьер-министра
+brexit_ru.txt_file_1001,EVT,подача в отставку
+brexit_ru.txt_file_1001,EVT,Brexit
+brexit_ru.txt_file_1001,PRO,документ (текст)
+brexit_ru.txt_file_1002,PER,Тереза Мэй
+brexit_ru.txt_file_1002,PER,Борис Джонсон
+brexit_ru.txt_file_1002,PER,Дэвид Дэвис
+brexit_ru.txt_file_1002,LOC,Великобритания
+brexit_ru.txt_file_1002,LOC,Евросоюз (ЕС)
+brexit_ru.txt_file_1002,ORG,Правительство Великобритании
+brexit_ru.txt_file_1002,ORG,Министерство иностранных дел Великобритании
+brexit_ru.txt_file_1002,ORG,Министр по делам «Брекзит»
+brexit_ru.txt_file_1002,EVT,принятие отставки
+brexit_ru.txt_file_1002,EVT,Brexit
+brexit_ru.txt_file_1002,PRO,документ (текст)
+brexit_ru.txt_file_1003,PER,Борис Джонсон
+brexit_ru.txt_file_1003,PER,Тереза Мэй
+brexit_ru.txt_file_1003,PER,Давид Дэвис
+brexit_ru.txt_file_1003,LOC,Великобритания
+brexit_ru.txt_file_1003,LOC,Евросоюз (ЕС)
+brexit_ru.txt_file_1003,ORG,Министерство иностранных дел Великобритании
+brexit_ru.txt_file_1003,ORG,Правительственная резиденция на Даунинг-стрит
+brexit_ru.txt_file_1003,EVT,уход с должности
+brexit_ru.txt_file_1003,EVT,Brexit
+brexit_ru.txt_file_1003,PRO,документ (текст)
+brexit_ru.txt_file_1004,PER,Борис Джонсон
+brexit_ru.txt_file_1004,PER,Тереза Мэй
+brexit_ru.txt_file_1004,PER,Давид Дэвис
+brexit_ru.txt_file_1004,LOC,Великобритания
+brexit_ru.txt_file_1004,LOC,Евросоюз (ЕС)
+brexit_ru.txt_file_1004,LOC,Германия
+brexit_ru.txt_file_1004,LOC,Польша
+brexit_ru.txt_file_1004,LOC,Лондон
+brexit_ru.txt_file_1004,LOC,Западные Балканы
+brexit_ru.txt_file_1004,ORG,МИД Великобритании
+brexit_ru.txt_file_1004,ORG,Консервативная партия
+brexit_ru.txt_file_1004,ORG,Канализация премьер-министра Великобритании
+brexit_ru.txt_file_1004,EVT,подача в отставку
+brexit_ru.txt_file_1004,EVT,Brexit
+brexit_ru.txt_file_1004,EVT,пресс-конференция
+brexit_ru.txt_file_1004,EVT,Саммит по развитию региона Западных Балкан
+brexit_ru.txt_file_1004,PRO,документ (текст)
+brexit_ru.txt_file_1006,PER,Борис Джонсон
+brexit_ru.txt_file_1006,PER,Мария Захарова
+brexit_ru.txt_file_1006,PER,Тереза Мэй
+brexit_ru.txt_file_1006,LOC,Великобритания
+brexit_ru.txt_file_1006,LOC,Россия
+brexit_ru.txt_file_1006,ORG,МИД России
+brexit_ru.txt_file_1006,ORG,Правительство Великобритании
+brexit_ru.txt_file_1006,ORG,Facebook
+brexit_ru.txt_file_1006,EVT,отставка
+brexit_ru.txt_file_1006,EVT,Brexit
+brexit_ru.txt_file_1006,PRO,документ (текст)
+brexit_ru.txt_file_1011,PER,Борис Джонсон
+brexit_ru.txt_file_1011,PER,Тереза Мэй
+brexit_ru.txt_file_1011,PER,Дэвид Дэвис
+brexit_ru.txt_file_1011,LOC,Великобритания
+brexit_ru.txt_file_1011,LOC,ЕС
+brexit_ru.txt_file_1011,ORG,Правительство Великобритании
+brexit_ru.txt_file_1011,ORG,Палата общин
+brexit_ru.txt_file_1011,ORG,The Guardian
+brexit_ru.txt_file_1011,EVT,отставка
+brexit_ru.txt_file_1011,EVT,Brexit
+brexit_ru.txt_file_1011,EVT,формирование стратегии выхода из ЕС
+brexit_ru.txt_file_1011,PRO,документ (текст)
+brexit_ru.txt_file_1017,PER,Борис Джонсон
+brexit_ru.txt_file_1017,PER,Тереза Мэй
+brexit_ru.txt_file_1017,PER,Давид Дэвис
+brexit_ru.txt_file_1017,PER,Стив Бейкер
+brexit_ru.txt_file_1017,LOC,Великобритания
+brexit_ru.txt_file_1017,LOC,Киев
+brexit_ru.txt_file_1017,ORG,МИД Великобритании
+brexit_ru.txt_file_1017,ORG,Парламент Великобритании
+brexit_ru.txt_file_1017,ORG,Правительство Великобритании
+brexit_ru.txt_file_1017,ORG,The Guardian
+brexit_ru.txt_file_1017,ORG,УНН
+brexit_ru.txt_file_1017,EVT,подача в отставку
+brexit_ru.txt_file_1017,EVT,Brexit
+brexit_ru.txt_file_1017,EVT,переговоры с ЕС
+brexit_ru.txt_file_1017,PRO,документ (текст)
