@@ -1,0 +1,143 @@
+﻿document_id,entity,gold_answer
+brexit_ru.txt_file_10,EVT,Brexit
+brexit_ru.txt_file_10,LOC,Альбиона
+brexit_ru.txt_file_10,LOC,Альбионе
+brexit_ru.txt_file_10,PER,Борис Джонсон Борис
+brexit_ru.txt_file_10,LOC,Британии
+brexit_ru.txt_file_10,LOC,Британия
+brexit_ru.txt_file_10,LOC,Брюсселе
+brexit_ru.txt_file_10,LOC,Брюсселем
+brexit_ru.txt_file_10,LOC,Брюссель
+brexit_ru.txt_file_10,LOC,Брюсселю
+brexit_ru.txt_file_10,LOC,Брюсселя
+brexit_ru.txt_file_10,PER,Джонсон
+brexit_ru.txt_file_10,PER,Джонсона
+brexit_ru.txt_file_10,ORG,ЕС
+brexit_ru.txt_file_10,ORG,Еврокомиссия
+brexit_ru.txt_file_10,LOC,Европа
+brexit_ru.txt_file_10,LOC,Европе
+brexit_ru.txt_file_10,ORG,Европейскому
+brexit_ru.txt_file_10,LOC,Европой
+brexit_ru.txt_file_10,LOC,Европы
+brexit_ru.txt_file_10,ORG,Евросоюза
+brexit_ru.txt_file_10,ORG,Евросоюзом
+brexit_ru.txt_file_10,ORG,Консервативной партии Консервативная
+brexit_ru.txt_file_10,LOC,Ла-Манша
+brexit_ru.txt_file_10,LOC,Лондон
+brexit_ru.txt_file_10,LOC,Лондона
+brexit_ru.txt_file_10,LOC,Лондоне
+brexit_ru.txt_file_10,LOC,Лондону
+brexit_ru.txt_file_10,ORG,Международного валютного фонда Международный валютный
+brexit_ru.txt_file_10,PER,Мишелю Барнье Мишель
+brexit_ru.txt_file_10,PER,Мэй
+brexit_ru.txt_file_10,PER,Себастьян Курц Себастьян
+brexit_ru.txt_file_10,LOC,Северную Ирландию Северная
+brexit_ru.txt_file_10,LOC,Соединенного Королевства Соединенное
+brexit_ru.txt_file_10,PER,Тереза Мэй Тереза
+brexit_ru.txt_file_10,PER,Терезу
+brexit_ru.txt_file_10,EVT,брекзит
+brexit_ru.txt_file_10,EVT,брекзита
+brexit_ru.txt_file_10,EVT,брекзиту
+brexit_ru.txt_file_10,EVT,брексит
+brexit_ru.txt_file_10,ORG,британском парламенте британский
+brexit_ru.txt_file_10,ORG,британскому парламентам британский
+brexit_ru.txt_file_10,ORG,лейбористы
+brexit_ru.txt_file_10,ORG,тори
+brexit_ru.txt_file_1000,EVT,Brexit
+brexit_ru.txt_file_1000,PRO,The Guardian The
+brexit_ru.txt_file_1000,PER,Борис Джонсон Борис
+brexit_ru.txt_file_1000,PER,Бориса Джонсона Борис
+brexit_ru.txt_file_1000,PER,Бориса
+brexit_ru.txt_file_1000,LOC,Великобритании
+brexit_ru.txt_file_1000,PER,Джонсон
+brexit_ru.txt_file_1000,PER,Дэвид Дэвис Дэвид
+brexit_ru.txt_file_1000,ORG,ЕС
+brexit_ru.txt_file_1000,ORG,МИД Соединенного Королевства МИД Соединенного
+brexit_ru.txt_file_1000,PRO,Подробности.ua
+brexit_ru.txt_file_1000,PER,Стив Бейкер Стив
+brexit_ru.txt_file_1000,PER,Тереза Мэй Тереза
+brexit_ru.txt_file_1000,ORG,УНН
+brexit_ru.txt_file_1001,ORG,Associated
+brexit_ru.txt_file_1001,EVT,Brexit
+brexit_ru.txt_file_1001,PER,Борис Джонсон Борис
+brexit_ru.txt_file_1001,PER,Бориса
+brexit_ru.txt_file_1001,LOC,Великобритании
+brexit_ru.txt_file_1001,PER,Джонсон
+brexit_ru.txt_file_1001,PER,Джонсона
+brexit_ru.txt_file_1001,ORG,ЕС
+brexit_ru.txt_file_1001,ORG,Евросоюза
+brexit_ru.txt_file_1001,ORG,Евросоюза
+brexit_ru.txt_file_1001,ORG,МИД Британии МИД
+brexit_ru.txt_file_1001,PER,Мэй
+brexit_ru.txt_file_1001,LOC,Соединенного Королевства Соединенное
+brexit_ru.txt_file_1001,PER,Тереза Мэй Тереза
+brexit_ru.txt_file_1002,PER,Бориса Джонсона Борис
+brexit_ru.txt_file_1002,EVT,Брекзит
+brexit_ru.txt_file_1002,LOC,Великобритании
+brexit_ru.txt_file_1002,PER,Дэвид Дэвис Дэвид
+brexit_ru.txt_file_1002,ORG,ЕС
+brexit_ru.txt_file_1002,ORG,Евросоюза
+brexit_ru.txt_file_1002,PER,Тереза Мей Тереза
+brexit_ru.txt_file_1003,PER,Борис Джонсон Борис
+brexit_ru.txt_file_1003,LOC,Великобритании
+brexit_ru.txt_file_1003,LOC,Даунинг-Стрит
+brexit_ru.txt_file_1003,PER,Джонсона
+brexit_ru.txt_file_1003,PER,Дэвид Дэвис Дэвид
+brexit_ru.txt_file_1003,ORG,Евросоюза
+brexit_ru.txt_file_1003,PER,Мэй
+brexit_ru.txt_file_1003,ORG,Рейтер
+brexit_ru.txt_file_1003,PER,Тереза Мэй Тереза
+brexit_ru.txt_file_1003,EVT,брекзита
+brexit_ru.txt_file_1004,PER,Борис
+brexit_ru.txt_file_1004,PER,Дэвид
+brexit_ru.txt_file_1004,LOC,Западных
+brexit_ru.txt_file_1004,ORG,Консервативной
+brexit_ru.txt_file_1004,ORG,МИД
+brexit_ru.txt_file_1004,ORG,ТАСС
+brexit_ru.txt_file_1004,PER,Терезы
+brexit_ru.txt_file_1006,EVT,Brexit
+brexit_ru.txt_file_1006,PRO,Facebook
+brexit_ru.txt_file_1006,PER,Борис Джонсон Борис
+brexit_ru.txt_file_1006,PER,Бориса Джонсона Борис
+brexit_ru.txt_file_1006,LOC,Британии
+brexit_ru.txt_file_1006,LOC,Великобритании
+brexit_ru.txt_file_1006,PER,Джонсона
+brexit_ru.txt_file_1006,PER,Захарова
+brexit_ru.txt_file_1006,PER,Захаровой
+brexit_ru.txt_file_1006,ORG,МИД России МИД
+brexit_ru.txt_file_1006,PER,Мария Захарова Мария
+brexit_ru.txt_file_1006,PER,Мэй
+brexit_ru.txt_file_1006,PER,Т. Мэй Т.
+brexit_ru.txt_file_1011,EVT,Brexit
+brexit_ru.txt_file_1011,PRO,The Guardian The
+brexit_ru.txt_file_1011,PER,Борис Джонсон Борис
+brexit_ru.txt_file_1011,PER,Бориса Джонсона Борис
+brexit_ru.txt_file_1011,PER,Борисом Джонсоном Борис
+brexit_ru.txt_file_1011,LOC,Великобританией
+brexit_ru.txt_file_1011,LOC,Великобритании
+brexit_ru.txt_file_1011,PER,Джонсона
+brexit_ru.txt_file_1011,PER,Джонсоном
+brexit_ru.txt_file_1011,PER,Дэвид Дэвис Дэвид
+brexit_ru.txt_file_1011,PER,Дэвисом
+brexit_ru.txt_file_1011,ORG,ЕС
+brexit_ru.txt_file_1011,ORG,Евросоюза
+brexit_ru.txt_file_1011,PER,Мэй
+brexit_ru.txt_file_1011,ORG,Палате общин Палата
+brexit_ru.txt_file_1011,PER,Тереза Мэй Тереза
+brexit_ru.txt_file_1011,PER,Терезу Мэй Тереза
+brexit_ru.txt_file_1011,PER,Терезы Мэй Тереза
+brexit_ru.txt_file_1017,EVT,Brexit
+brexit_ru.txt_file_1017,PRO,The Guardian The
+brexit_ru.txt_file_1017,PER,Борис Джонсон Борис
+brexit_ru.txt_file_1017,PER,Бориса Джонсона Борис
+brexit_ru.txt_file_1017,PER,Бориса Джонсона Бориса
+brexit_ru.txt_file_1017,PER,Бориса
+brexit_ru.txt_file_1017,LOC,Великобритании
+brexit_ru.txt_file_1017,PER,Джонсон
+brexit_ru.txt_file_1017,PER,Дэвид Дэвис Дэвид
+brexit_ru.txt_file_1017,ORG,ЕС
+brexit_ru.txt_file_1017,LOC,КИЕВ
+brexit_ru.txt_file_1017,ORG,МИД Соединенного Королевства МИД Соединенного
+brexit_ru.txt_file_1017,PER,Стив Бейкер Стив
+brexit_ru.txt_file_1017,PER,Тереза Мэй Тереза
+brexit_ru.txt_file_1017,ORG,УНН
